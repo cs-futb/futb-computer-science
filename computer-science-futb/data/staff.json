@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dr-khalid-haruna",
+    "name": "Dr. Khalid Haruna",
+    "initials": "KH",
+    "role": "Associate Professor · Head of Department",
+    "rankGroup": "Leadership & Professorial Ranks",
+    "qualification": "PhD in Information Systems · University of Malaya (2018)",
+    "shortBio": "Head of the Department of Computer Science at FUTB. Public university information lists research interests in recommender systems, Internet of Things, big data analytics, sentiment analysis and e-learning.",
+    "researchInterests": [
+      "Recommender systems",
+      "Internet of Things",
+      "Big data analytics",
+      "Sentiment analysis",
+      "E-learning"
+    ],
+    "profileUrl": "staff/dr-khalid-haruna.html",
+    "photo": "assets/images/dr-khalid-haruna.jpg"
+  },
+  {
+    "id": "muktar-hussaini",
+    "name": "Dr. Muktar Hussaini",
+    "initials": "MH",
+    "role": "Senior Lecturer",
+    "rankGroup": "Senior Lecturers",
+    "qualification": "PhD in Computer Science · Universiti Utara Malaysia (2020, based on public profile)",
+    "shortBio": "Academic staff member in the Department of Computer Science. His public professional profile lists research on Future Internet, Named Data Networking and Information-Centric Networking.",
+    "researchInterests": [
+      "Future Internet",
+      "Named Data Networking",
+      "Information-Centric Networking"
+    ],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "maaruf-lawan",
+    "name": "Maaruf Lawan",
+    "initials": "ML",
+    "role": "Assistant Lecturer",
+    "rankGroup": "Assistant Lecturers",
+    "qualification": "MSc Computer Science · Federal University Dutse (2022, LinkedIn profile)",
+    "shortBio": "Assistant Lecturer in the Department of Computer Science at FUTB. Public profile lists interests and skills in data science, machine learning and artificial intelligence.",
+    "researchInterests": [
+      "Data science",
+      "Machine learning",
+      "Artificial intelligence"
+    ],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "falalu-ibrahim",
+    "name": "Falalu Ibrahim",
+    "initials": "FI",
+    "role": "Assistant Lecturer",
+    "rankGroup": "Assistant Lecturers",
+    "qualification": "Academic qualifications to be added from staff CV",
+    "shortBio": "Assistant Lecturer whose publications appear under the name Falalu Ibrahim Lawan. Public research records include work on Hausa natural language processing, emotion detection and dialogue safety for African languages.",
+    "researchInterests": [
+      "Hausa NLP",
+      "Low-resource languages",
+      "AI safety",
+      "Emotion detection"
+    ],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "muhammad-abubakar",
+    "name": "Muhammad Abubakar",
+    "initials": "MA",
+    "role": "Assistant Lecturer",
+    "rankGroup": "Assistant Lecturers",
+    "qualification": "Academic qualifications to be added from staff CV",
+    "shortBio": "Assistant Lecturer in the Department of Computer Science. Staff biography and research interests will be added from information supplied for the departmental website.",
+    "researchInterests": [],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "sanusi-ibrahim",
+    "name": "Sanusi Ibrahim",
+    "initials": "SI",
+    "role": "Graduate Assistant",
+    "rankGroup": "Graduate Assistants",
+    "qualification": "Academic qualifications to be added from staff CV",
+    "shortBio": "Graduate Assistant in the Department of Computer Science at FUTB. Further academic and professional details will be added from his staff CV.",
+    "researchInterests": [],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "shafiu-muhammad-bello",
+    "name": "Shafiu Muhammad Bello",
+    "initials": "SB",
+    "role": "Graduate Assistant",
+    "rankGroup": "Graduate Assistants",
+    "qualification": "Academic qualifications to be added from staff CV",
+    "shortBio": "Graduate Assistant in the Department of Computer Science at FUTB. Further academic and professional details will be added from his staff CV.",
+    "researchInterests": [],
+    "profileUrl": "",
+    "photo": ""
+  },
+  {
+    "id": "bello-umar-bello",
+    "name": "Bello Umar Bello",
+    "initials": "BB",
+    "role": "Graduate Assistant",
+    "rankGroup": "Graduate Assistants",
+    "qualification": "BSc Computer Science · Bayero University Kano (2021)",
+    "shortBio": "Graduate Assistant whose interests include Hausa and African-language NLP, generative AI, large language models and AI for education. Founder of AfricanaAI, a project focused on African-language AI.",
+    "researchInterests": [
+      "Hausa NLP",
+      "African-language AI",
+      "Generative AI",
+      "AI for education"
+    ],
+    "profileUrl": "",
+    "photo": ""
+  }
+]
